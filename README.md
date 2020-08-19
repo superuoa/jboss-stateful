@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 kitchensink-angularjs-bootstrap: Demonstrates AngularJS, Twitter Bootstrap, with JAX-RS
 ========================
 Level: Intermediate  
@@ -16,3 +17,7 @@ Add to Project
 Wildfly
 GitRepo: https://github.com/OpenShiftInAction/chapter7
 
+=======
+# jboss-stateful
+jboss-stateful
+>>>>>>> branch 'master' of https://github.com/superuoa/jboss-stateful.git
